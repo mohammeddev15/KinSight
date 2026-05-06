@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>kinsight_ion.png</file>
+    </qresource>
+    <qresource prefix="/father">
+        <file>fath_boy-0-6m.txt</file>
+        <file>fath_boy-1-3y.txt</file>
+        <file>fath_boy-4-6y.txt</file>
+        <file>fath_boy-7-12m.txt</file>
+        <file>fath_boy-7-12y.txt</file>
+        <file>fath_boy-13-18y.txt</file>
+        <file>fath_girle-0-6m.txt</file>
+        <file>fath_girle-1-3y.txt</file>
+        <file>fath_girle-4-6y.txt</file>
+        <file>fath_girle-7-12m.txt</file>
+        <file>fath_girle-7-12y.txt</file>
+        <file>fath_girle-13-18y.txt</file>
+    </qresource>
+    <qresource prefix="/mather">
+        <file>math_boy-0-6m.txt</file>
+        <file>math_boy-1-3y.txt</file>
+        <file>math_boy-4-6y.txt</file>
+        <file>math_boy-7-12m.txt</file>
+        <file>math_boy-7-12y.txt</file>
+        <file>math_boy-13-18y.txt</file>
+        <file>math_girle-0-6m.txt</file>
+        <file>math_girle-1-3y.txt</file>
+        <file>math_girle-4-6y.txt</file>
+        <file>math_girle-7-12m.txt</file>
+        <file>math_girle-7-12y.txt</file>
+        <file>math_girle-13-18y.txt</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>appicon.ico</file>
+    </qresource>
+</RCC>
